@@ -1,16 +1,12 @@
-# result_card_management
+# Result Card Management
 
-A new Flutter application.
+A Flutter application for students and teachers to upload subject marks.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Collabrators
+Name  | Registration #
+------------- | -------------
+Raza Fayyaz Saddiqi  | SP17-BCS-062
+Hasham Ahmed  | SP17-BCS-015
+Shahzaib Ali Shah  | SP17-BCS-068
+Muhammad Nouman Tahir  | SP17-BCS-046
+Muhammad Qasim Cheema  | SP17-BCS-047
